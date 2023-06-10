@@ -1,0 +1,39 @@
+.main {
+    margin-top: 100px;
+}
+
+.logo-img {
+    display:block;
+    width:50%;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search-input {
+    display: block;
+    width: 65%;
+    margin-bottom: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+}
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
+button {
+    background: #dfe1e5;
+    border-radius: 5px;
+    padding: 7px;
+    border: none;
+    font-size: 14px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
